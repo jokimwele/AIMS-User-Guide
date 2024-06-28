@@ -5,8 +5,9 @@
 The following is a step by step  process on how a Hospital and other Stakeholders can update Bed Capacity.<br>
 a. Login to AIMS system, on the left click on the status Menu as shown on the screenshot , then the Update Link.<br>
 <img src="Bed%20Status%20Update%20New.png" alt="Status Menu &amp; Update Link"></p>
-<p>b. Use the arrow keys up / down or key in  beds status accordingly in each needed section  as shown in the screenshot below<br>
-<img src="Bed%20status%20update%20bed-screenshot-Step%20-2.png" alt="Bed Status Update Section Link "></p>
+<p>b. Use the arrow keys up / down or key in  beds status accordingly in each needed section  as shown in the screenshot below<img src="Bed%20status%20update%20bed-screenshot-Step%20-2.png" alt="Bed Status Update Section Link "></p>
+</li>
+</ol>
 <p>c.  Additionally you can add some notes / comments on the notes section as shown below on the screenshot.<br>
 <img src="Bed%20status%20update%20bed-screenshot-Step%20-3%20Notes.png" alt="Notes Link"><br>
 d. To save your changes scroll to bottom of the screen and click on the Send Update button as shown on the screenshot below.<br>
@@ -24,10 +25,8 @@ The following screenshots shows the different sections of the form that user mig
 <img src="Covid%20Capacity%20Utilization%20Form%20Section%203.png" alt="Section 3 Link"><br>
 <img src="Covid%20Capacity%20Utilization%20Form%20Section%204.png" alt="Section 4 Link"></li>
 </ol>
-</li>
-</ol>
 <p>You have an option to save your changes as a Draft or Complete the Form by clicking either Save as Draft or Complete buttons as shown below on the screenshot</p>
-<p><img src="Covid%20Capacity%20Utilization%20Save-Complete.png" alt="[Save Draft or Complete] Link"></p>
+<p>![<a href="Covid%20Capacity%20Utilization%20Save-Complete.png">Save Draft or Complete Link</a></p>
 <ol start="3">
 <li>How to Access the COVID-19 CU Compliance Form for Retrospective Reporting<br>
 The following steps shows how a hospital staff can Access , Update and Submit COVID-19 CU Compliance Form for Retrospective Reporting.<br>
@@ -90,11 +89,10 @@ e. To Update your Email ,Password or Two Factor Authentication, under Manager yo
 <li><strong>How to Create a New AIMS User Account for my Organization</strong><br>
 This role is only reserved to AIMS Administrator.<br>
 a. Once logged in as AIMS Administrator click  the Administrator tab on the left side  as shown on the screenshot below.<br>
-<img src="Administration%20Tab.png" alt="Administration Link"></li>
+<img src="Administration%20Tab.png" alt="Administration Link"><br>
+b. Click on Users as shown on the screenshot below.<br>
+<img src="New%20User.png" alt="Users Link"></li>
 </ol>
-<pre><code>b. Click on Users as shown on the screenshot below.
-</code></pre>
-<p><img src="New%20User.png" alt="Users Link"></p>
 <p>c. Click on the New User tab as shown on the screenshot below, enter all the desired information - note under User Group specify whether  the Account is for Hospital Administrator or Hospital User. The Password will be temporary, user will be notified to change the password once logged in for first time.<br>
 <img src="New%20User.png" alt="New User Link"><br>
 d. Once you enter all desired information, click create account  as shown on the screenshot below- you will receive a confirmation email confirming account creation.<br>
@@ -155,7 +153,7 @@ Upon login to AIMS system, the top right hand side will display Notifications an
 <li>
 <p><strong>How to Create and Send a Message.</strong><br>
 Upon login to AIMS.<br>
-a.  Click on Communication menu on the left hand side of the screen as shown on the below screenshot.<br>
+a. Click on Communication menu on the left hand side of the screen as shown on the below screenshot.<br>
 <img src="Communication%20and%20Message%20Inbox.png" alt="Communication and Message Inbox Link"></p>
 </li>
 </ol>
@@ -217,7 +215,7 @@ d. Within the map  to the right of the Map, you can toggle between different Org
 <img src="Facility%20Map.png" alt="Facility Map Showing toggle option Link"></p>
 <ol start="10">
 <li><strong>How to Create a Video Conferencing Meeting.</strong><br>
-a.  Log in to AIMS, click on the Communications Menu on the right hand side of the  screen as shown on the below screenshot.<br>
+a. Log in to AIMS, click on the Communications Menu on the right hand side of the  screen as shown on the below screenshot.<br>
 <img src="Communications%20Menu.png" alt="Communications Menu Link"></li>
 </ol>
 <p>b. Click on meetings  tab , this opens the Meetings screen and the New Meeting button to the right.<br>
@@ -232,7 +230,7 @@ b. Select the Status Menu then select People Tracking as shown on the screenshot
 c. Manifest report shows a listing of all individuals in the Tracking System as well as where they are located and where they are moved to.<br>
 d. To add a person from the Tracking module  click on  Add a Person as shown on the screenshot below.  Add the data fields for each individual.<br>
 AIMS can generate a Unique ID<br>
-e.  Facility can switch from details view of the Listing to Dashboard view by clicking on the Switch View on the far right hand side beside the Add Person button, a shown in this screenshot below. the Dashboard view , at a  glance shows the following:-<br>
+e. Facility can switch from details view of the Listing to Dashboard view by clicking on the Switch View on the far right hand side beside the Add Person button, a shown in this screenshot below. the Dashboard view , at a  glance shows the following:-<br>
 (i) How many Individuals are being Tracked,<br>
 (ii) How may Individuals have been  Moved.<br>
 (iii) How many Individuals have been Discharged and Total Registered.<br>
